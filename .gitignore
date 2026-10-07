@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+
+data/backup
+data/final_tables
+data/original_files
+
+output/
+drafts/
+
